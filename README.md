@@ -11,3 +11,6 @@
 
 ## My Github stats
 ![madskullkoa's GitHub stats](https://github-readme-stats.vercel.app/api?username=madskullkoa&count_private=true&show_icons=true&theme=tokyonight)
+
+## Scrobbles 🎧
+![Scrobbles](https://spotify-recently-played-readme.vercel.app/api?user=fpro7txyohhhu3evhiwzifdv3)
