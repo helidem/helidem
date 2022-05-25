@@ -8,6 +8,9 @@
 ## Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madskullkoa)](https://github.com/anuraghazra/github-readme-stats)
 
+## Reach me in discord
+![discord](https://discord.c99.nl/widget/theme-1/372704903736328192.png)
+
 
 ## My Github stats
 ![madskullkoa's GitHub stats](https://github-readme-stats.vercel.app/api?username=madskullkoa&count_private=true&show_icons=true&theme=tokyonight)
