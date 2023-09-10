@@ -8,6 +8,9 @@
 ## Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helidem)](https://github.com/anuraghazra/github-readme-stats)
 
+## My TryHackMe stats
+![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/youcef92.png)
+
 ## Reach me in discord
 ![discord](https://discord.c99.nl/widget/theme-1/372704903736328192.png)
 
