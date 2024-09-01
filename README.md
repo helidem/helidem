@@ -12,7 +12,7 @@
 ![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/youcef92.png)
 
 ## My Root Me stats
-![Root-me-stats](https://root-me-diff.vercel.app/rm-gh?nickname=helidem)
+![Root-me-stats](https://root-me-diff.vercel.app/rm-gh?nickname=helidem&gstats=show)
 
 
 ## Reach me in discord
