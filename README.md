@@ -11,6 +11,10 @@
 ## My TryHackMe stats
 ![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/youcef92.png)
 
+## My Root Me stats
+![Root-me-stats](https://root-me-diff.vercel.app/rm-gh?nickname=helidem)
+
+
 ## Reach me in discord
 ![discord](https://discord.c99.nl/widget/theme-1/372704903736328192.png)
 
