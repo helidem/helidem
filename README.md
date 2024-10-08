@@ -9,7 +9,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helidem)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My TryHackMe stats
-![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/youcef92.png)
+![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/youcef92.pnsg)
 
 ## My Root Me stats
 ![Root-me-stats](https://root-me-diff.vercel.app/rm-gh?nickname=helidem&gstats=show)
